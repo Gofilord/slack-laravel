@@ -17,7 +17,7 @@
      ],
     "require": {
         "php": ">=5.4.0",
-        "maknz/slack": "dev-fork#0fd566ab4f34e3109e49a3b76bff3ef2c662f9b3"
+        "maknz/slack": "dev-master"
     },
     "autoload": {
         "psr-4": {
